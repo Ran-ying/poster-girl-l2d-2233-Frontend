@@ -1,6 +1,6 @@
 //初始位置，默认左上角，与下面的 目标位置 搭配修改
 $(".waifu").css({'top':0,'left':0});
-const apiurl = `${location.href}model/`
+const apiurl = `${location.protocol}//${location.host}/model/`
 let waifu_display = localStorage.getItem('waifu-display');
 if(waifu_display=="none"){
     $('.waifu').hide();
