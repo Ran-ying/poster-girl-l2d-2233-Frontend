@@ -2,7 +2,7 @@
 
 2233 娘的 Live2D 看板娘纯前端版，将原项目的 php 后端 API 改为前端实现，并且去除了和 Wordpress 有关的部分，这样就可以在任何站点启用。
 
-[Demo: https://ran-ying.github.io/poster-girl-l2d-2233-Frontend](https://ran-ying.github.io/poster-girl-l2d-2233-Frontend)
+[Demo: https://2233.rany.ing](https://2233.rany.ing)
 
 ## 使用方法
 
